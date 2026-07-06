@@ -20,7 +20,7 @@ export default function Safety() {
     <div className="mx-auto max-w-4xl px-5 pb-24 pt-14 lg:px-8">
       <span className="text-xs font-semibold uppercase tracking-wider text-violet-300">Trust & safety</span>
       <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">Built for peace of mind on both sides of every rental</h1>
-      <p className="mt-4 text-white/50">NeedOnce is designed so borrowers and owners can trust every handoff, every deposit, and every listing.</p>
+      <p className="mt-4 text-white/50">BorrowIt is designed so borrowers and owners can trust every handoff, every deposit, and every listing.</p>
 
       <div className="mt-12 grid gap-5 sm:grid-cols-2">
         {SAFETY_FEATURES.map((f) => (

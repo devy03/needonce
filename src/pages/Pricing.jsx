@@ -55,7 +55,7 @@ export default function Pricing() {
       </div>
 
       <div className="mt-16 rounded-2xl border border-white/[0.08] bg-white/[0.03] p-7">
-        <h3 className="text-base font-semibold text-white">How NeedOnce makes money</h3>
+        <h3 className="text-base font-semibold text-white">How BorrowIt makes money</h3>
         <ul className="mt-4 space-y-2.5">
           {BUSINESS_MODEL.map((b) => (
             <li key={b} className="flex items-start gap-2 text-sm text-white/60">

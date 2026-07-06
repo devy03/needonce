@@ -14,7 +14,7 @@ export default function HowItWorks() {
     <div className="mx-auto max-w-4xl px-5 pb-24 pt-14 lg:px-8">
       <span className="text-xs font-semibold uppercase tracking-wider text-violet-300">How it works</span>
       <h1 className="mt-2 text-3xl font-bold text-white sm:text-4xl">Borrow from neighbors. Rent from stores. Check libraries. Compare everything.</h1>
-      <p className="mt-4 text-white/50">NeedOnce combines every nearby way to access an item into one clean comparison — so you never overpay to buy something you'll only use once.</p>
+      <p className="mt-4 text-white/50">BorrowIt combines every nearby way to access an item into one clean comparison — so you never overpay to buy something you'll only use once.</p>
 
       <div className="mt-12 space-y-5">
         {STEPS.map((s, i) => (

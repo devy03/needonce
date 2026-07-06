@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-violet-500 to-blue-500">
                 <div className="h-3 w-3 rounded-full bg-white/90" />
               </div>
-              <span className="text-base font-bold text-white">NeedOnce</span>
+              <span className="text-base font-bold text-white">BorrowIt</span>
             </div>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-white/40">
               Need it once? Don't buy it. Compare neighbors, rental stores, tool libraries, and community lenders in one search.
@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/[0.06] pt-6 text-xs text-white/30 md:flex-row">
-          <span>© 2026 NeedOnce. All rights reserved.</span>
+          <span>© 2026 BorrowIt. All rights reserved.</span>
           <span>Your community already owns what you need.</span>
         </div>
       </div>

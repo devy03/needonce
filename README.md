@@ -1,6 +1,6 @@
 <div align="center">
 
-# NeedOnce
+# BorrowIt
 
 ### Need it once? Don't buy it.
 
@@ -18,14 +18,14 @@ Every year, people buy expensive tools, event supplies, sports gear, and househo
 
 Right now, finding a cheaper way means manually checking Facebook Marketplace, Home Depot, the local library, group chats, and random Google searches — one at a time.
 
-**NeedOnce combines all of it into a single comparison engine:**
+**BorrowIt combines all of it into a single comparison engine:**
 
 - 🏠 **Neighbors** renting out things they already own
 - 🏬 **Hardware stores & rental shops** (Home Depot, Lowe's, local rental companies)
 - 📚 **Libraries & tool libraries** (Library of Things, tool-lending programs, makerspaces)
 - 👥 **Private community groups** (apartment buildings, colleges, temples, sports teams)
 
-Search a task or an item, and NeedOnce ranks every option by price, distance, speed, and reliability — then tells you when buying new is *actually* the smarter move.
+Search a task or an item, and BorrowIt ranks every option by price, distance, speed, and reliability — then tells you when buying new is *actually* the smarter move.
 
 ## What's built
 

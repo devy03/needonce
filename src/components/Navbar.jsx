@@ -23,7 +23,7 @@ export default function Navbar() {
             <div className="relative flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-violet-500 to-blue-500 shadow-lg shadow-violet-500/20 transition-transform group-hover:scale-105">
               <div className="h-3.5 w-3.5 rounded-full bg-white/90" />
             </div>
-            <span className="text-[17px] font-bold tracking-tight text-white">NeedOnce</span>
+            <span className="text-[17px] font-bold tracking-tight text-white">BorrowIt</span>
           </Link>
 
           <div className="hidden items-center gap-1 lg:flex">
